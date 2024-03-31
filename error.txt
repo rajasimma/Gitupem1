@@ -1,4 +1,4 @@
 Down 
 upper 
 lower 
-medium
+paper
